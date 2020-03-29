@@ -1,11 +1,12 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
+  "cart": [
+  {"id":"2","img":"http://fakeimg.pl/220x220?font=lobster","name":"BRAND MODEL","price":"1000","description":"description text","specs":{"displaySize":"","displayType":"","displayResolution":"","cpu":"BRAND MODEL","storage":"","ram":""},"quantity":"12","reviews":[{"userId":"1","userName":"Name1 Surname1","textReview":"text","productRating":""},{"userId":"2","userName":"Name2 Surname2","textReview":"text","productRating":""}],"overallRating":"","deliveryPrice":"","buyQuantity":1},
+  {"id":"1","img":"http://fakeimg.pl/220x220?font=lobster","name":"Samsung Galaxy S20 Ultra","price":"1500","description":"Meet Galaxy S20 Ultra with intelligent battery, powerful processor and massive storage","specs":{"displaySize":"6.9","displayType":"AMOLED","displayResolution":"1440 x 3200","cpu":"Qualcomm Snapdragon 865","storage":"512","ram":"16"},"quantity":"12","reviews":[{"userId":"1","userName":"Jessica Alba","textReview":"Everything I want","productRating":"4"},{"userId":"2","userName":"Name2 Surname2","textReview":"I like It","productRating":"5"}],"overallRating":"4.5","deliveryPrice":"","buyQuantity":1},
+  {"id":"3","img":"http://fakeimg.pl/220x220?font=lobster","name":"Samsung Galaxy S20 Ultra","price":"1500","description":"Meet Galaxy S20 Ultra with intelligent battery, powerful processor and massive storage","specs":{"displaySize":"6.9","displayType":"AMOLED","displayResolution":"1440 x 3200","cpu":"Qualcomm Snapdragon 865","storage":"512","ram":"16"},"quantity":"12","reviews":[{"userId":"1","userName":"Jessica Alba","textReview":"Everything I want","productRating":"4"},{"userId":"2","userName":"Name2 Surname2","textReview":"I like It","productRating":"5"}],"overallRating":"4.5","deliveryPrice":"","buyQuantity":1}
+],
   "profile": {
-    "name": "typicode"
+    "name": "onlineStore"
   }
 }
+
+
